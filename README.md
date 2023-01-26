@@ -15,4 +15,4 @@ System.out.println("Hola mundo");
 ## Miembros del equipo
 - Nicolas.
 - Sergio.
- ![](https://commonmark.org/help/images/favicon.png)
+ ![](https://static.wikia.nocookie.net/chainsaw-man/images/6/68/Pochita1.png/revision/latest?cb=20220206235931&path-prefix=es)
