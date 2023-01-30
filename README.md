@@ -12,6 +12,10 @@
 ```
 System.out.println("Hola mundo");
 ```
+## Imagenes de Learn Git Branching
+![](https://github.com/cattus09/cvds-lab1/blob/sergio/imagenes/principal.png)
+![](https://github.com/cattus09/cvds-lab1/blob/sergio/imagenes/remota.png)
+
 ## Miembros del equipo
 - Nicolas.
 - Sergio.
