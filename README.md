@@ -1,6 +1,6 @@
-# Información general\
+# Información general
 ## Nombre
-**Sergio Andres Gonzalez Vargas**\
+**Sergio Andres Gonzalez Vargas**
 ## Semestre
 *Octavo*
 ## URL
