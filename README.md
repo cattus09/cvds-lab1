@@ -34,4 +34,9 @@ System.out.println("Este es mi codigo");
 ### Imagen
  ![](https://media.tenor.com/Xz7rt0UI61sAAAAC/kirby-music.gif)
 
+## EJERCICIOS GIT
+
+![](https://github.com/cattus09/cvds-lab1/blob/Nicolas/Fotos/Captura%20de%20pantalla%202023-02-01%20092512.png?raw=true)
+
+![](https://github.com/cattus09/cvds-lab1/blob/Nicolas/Fotos/Captura%20de%20pantalla%202023-02-01%20092934.png?raw=true)
 
